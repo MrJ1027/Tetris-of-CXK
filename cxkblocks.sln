@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cxkblocks", "cxkblocks.vcxproj", "{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "音乐版本蔡徐坤方块", "..\最终版本\音乐版本蔡徐坤方块\音乐版本蔡徐坤方块.vdproj", "{563DC25B-EDA3-4041-90B8-9E7CF8EDED14}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "无尽模式", "..\无尽模式\无尽模式\无尽模式.vdproj", "{E18920B3-8581-4DCC-8411-E1D74AB9B297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Debug|x64.ActiveCfg = Debug|x64
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Debug|x64.Build.0 = Debug|x64
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Debug|x86.Build.0 = Debug|Win32
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Release|x64.ActiveCfg = Release|x64
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Release|x64.Build.0 = Release|x64
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Release|x86.ActiveCfg = Release|Win32
+		{88E14D69-D712-4E05-B1DF-29C6CFE9ABEF}.Release|x86.Build.0 = Release|Win32
+		{563DC25B-EDA3-4041-90B8-9E7CF8EDED14}.Debug|x64.ActiveCfg = Debug
+		{563DC25B-EDA3-4041-90B8-9E7CF8EDED14}.Debug|x86.ActiveCfg = Debug
+		{563DC25B-EDA3-4041-90B8-9E7CF8EDED14}.Release|x64.ActiveCfg = Release
+		{563DC25B-EDA3-4041-90B8-9E7CF8EDED14}.Release|x86.ActiveCfg = Release
+		{E18920B3-8581-4DCC-8411-E1D74AB9B297}.Debug|x64.ActiveCfg = Debug
+		{E18920B3-8581-4DCC-8411-E1D74AB9B297}.Debug|x86.ActiveCfg = Debug
+		{E18920B3-8581-4DCC-8411-E1D74AB9B297}.Release|x64.ActiveCfg = Release
+		{E18920B3-8581-4DCC-8411-E1D74AB9B297}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11485FB7-4D09-48D5-AB3C-DB16941C4AF6}
+	EndGlobalSection
+EndGlobal
